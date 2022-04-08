@@ -11,6 +11,8 @@ class footer extends Component {
                <h1>Satyam Shivam 33 Shubham Sundaram</h1>
                <h1>Satyam Shivam 44 Shubham Sundaram</h1>
                <h1>Satyam Shivam 55 Shubham Sundaram</h1>
+               <h1>Satyam Shivam 55 Shubham Sundaram Pichayi</h1>
+
 
             </div>
         );
