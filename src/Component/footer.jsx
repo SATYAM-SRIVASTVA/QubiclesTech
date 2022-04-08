@@ -6,6 +6,7 @@ class footer extends Component {
             <div>
                <h1>Hello friends</h1> 
                <h2>Satyam</h2>
+               <h3>Shivam</h3>
             </div>
         );
     }
