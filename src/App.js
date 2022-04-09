@@ -3,6 +3,8 @@ import './App.css';
 import Nav from './Component/Navbar/nav';
 import Built from './Component/Built/built';
 import Start from './Component/Start/Start.jsx'
+import Footer from './Component/Footer/Footer.jsx'
+import Card from './Component/Card/Card.jsx'
 
 function App() {
   return (
@@ -10,6 +12,8 @@ function App() {
    <Nav/>
    <Built/>
    <Start/>
+   <Card/>
+   <Footer/>
    </>
   );
 }
