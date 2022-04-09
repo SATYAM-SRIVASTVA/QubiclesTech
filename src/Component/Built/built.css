@@ -1,0 +1,50 @@
+
+.built-main-container{
+    /* height: 100vh; */
+    margin: 2rem 0 5rem 0;
+    padding: 0 2rem;
+}
+
+.built-subcontainer{
+    padding-top: 3rem;
+}
+
+.built-header>h2{
+    font-family: 'Playfair Display', serif;
+    font-weight: 500;
+    font-size: 4.5rem;
+}
+
+.built-para{
+    margin-top: 2rem;
+}
+.built-para>p{
+    text-align: justify;
+    padding-right: 20%;
+}
+
+.built-image{
+    height: 100%;
+    width: 100%;
+}
+
+.built-image>img{
+    height: 100%;
+    width: 100%;
+}
+
+.built-button{
+    margin-top: 2rem;
+}
+
+.built-button>button{
+    height: 3.4rem;
+    width: 12rem;
+    font-size: 1.5rem;
+    font-weight: 600;
+    transition:transform 0.2s;
+}
+
+.built-button>button:hover{
+    transform: scale(1.1);
+}
