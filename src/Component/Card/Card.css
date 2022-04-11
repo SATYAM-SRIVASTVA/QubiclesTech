@@ -1,0 +1,31 @@
+.card-row{
+    padding: 2rem 0rem;
+}
+
+.card-col-first{
+    padding: 2rem 8rem;
+}
+
+.card-col-first>h2{
+    margin-bottom: 4rem;
+    font-size: 4rem;
+    font-family: 'Playfair Display', serif;
+}
+.card-col-first>p{
+    font-family: 'Playfair Display', serif;
+    text-align: justify;
+    font-size: 1.3rem;
+}
+
+.card-col-second{
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.card-faces{
+    height: 80%;
+    width: 50%;
+    background-color: rgb(202, 196, 196);
+}

@@ -9,10 +9,10 @@ import { Services } from './Component/Services/Services';
 function App() {
   return (
    <>
-   {/* <Nav/>
+   <Nav/>
    <Built/>
-   <Start/> */}
-   <Services/>
+   <Start/>
+   {/* <Services/> */}
    </>
   );
 }

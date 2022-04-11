@@ -14,6 +14,7 @@ const Start = () => {
                 src="https://miro.medium.com/max/1400/1*UJHsNXtu3OclxO_8Z1HPjQ.jpeg"
                 alt=""
               />
+              <h1>Solution</h1>
             </div>
           </div>
           <div className="start-col-second col col-lg-5 col-md-5 col-sm-12">
