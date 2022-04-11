@@ -4,7 +4,7 @@ import Nav from './Component/Navbar/nav';
 import Built from './Component/Built/built';
 import Start from './Component/Start/Start.jsx'
 import { Services } from './Component/Services/Services';
-
+import Footer from './Component/Footer/Footer'
 
 function App() {
   return (
@@ -12,7 +12,8 @@ function App() {
    <Nav/>
    <Built/>
    <Start/>
-   {/* <Services/> */}
+   <Services/>
+   <Footer/>
    </>
   );
 }
