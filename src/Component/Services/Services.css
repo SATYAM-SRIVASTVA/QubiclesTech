@@ -1,0 +1,38 @@
+.service-main-container{
+    background-color: aquamarine;
+    height: 100vh;
+    padding: 0 4rem;
+}
+.service-heading{
+    display: flex;
+    flex-direction: inline;
+    justify-content: baseline;
+    padding-left: 3rem;
+    align-items: center;
+    padding-top: 3rem;
+    font-family: 'Playfair Display', serif;
+}
+.arrow-icon{
+   font-size: 2rem;
+   
+   
+}
+.card-cont>div>div{
+    margin: 2rem;
+}
+.card-custom{
+    height: 30rem;
+    box-shadow: 2rem;
+
+}
+.card-title-cont{
+    font-family: 'Playfair Display', serif;
+    font-size: 1.5rem;
+    justify-content: center;
+    align-items: center;
+}
+.card-text-cont{
+    margin-top: 4rem;
+    font-family: 'Playfair Display', serif;
+
+}
